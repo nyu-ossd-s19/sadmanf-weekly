@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Senior at CAS studying Computer Science
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+email: sadmanfahmid@gmail.com
