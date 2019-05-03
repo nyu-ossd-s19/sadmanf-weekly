@@ -20,6 +20,8 @@ Replace the first row with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description | 
 |---|:---|:---|:---| 
+|   4   |   [link](https://github.com/nyu-ossd-s19/nopepad/issues/3)   |   Classmate's project   |   Feature Request   |
+|   4   |   [link](https://github.com/nyu-ossd-s19/nopepad/pull/4/files)   |   Classmate's project   |   Submitted a Pull Request that created the above Feature Request   |
 |  7   | [link](https://en.wikipedia.org/w/index.php?title=Glen_Sherley&diff=prev&oldid=890389441)   | Wikipedia   |   Grammar fixes    |
 |  7   | [link](https://en.wikipedia.org/w/index.php?title=Deobar_Rao_Mukne&diff=prev&oldid=890388019)    | Wikipedia     | Grammar fixes     |
 |  9   | [link](https://github.com/sindresorhus/caprine/pull/861#partial-pull-merging)    |   Caprine  |   Pull Request   |
