@@ -20,6 +20,6 @@ Replace the first row with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description | 
 |---|:---|:---|:---| 
-|  2   | link to my contribution    | course website    |   I fixed a broken link.    |
-|     |     |     |      |
+|  7   | https://en.wikipedia.org/w/index.php?title=Glen_Sherley&diff=prev&oldid=890389441    | Wikipedia   |   Grammar fixes    |
+|  7   | https://en.wikipedia.org/w/index.php?title=Deobar_Rao_Mukne&diff=prev&oldid=890388019    | Wikipedia     | Grammar fixes     |
 |     |     |     |      |
