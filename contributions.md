@@ -20,6 +20,7 @@ Replace the first row with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description | 
 |---|:---|:---|:---| 
+|   2   |   [link](https://github.com/nyu-ossd-s19/FacebookPanic/commits/master)   | Own project | Hide notifications feature |
 |   4   |   [link](https://github.com/nyu-ossd-s19/nopepad/issues/3)   |   Classmate's project   |   Feature Request   |
 |   4   |   [link](https://github.com/nyu-ossd-s19/nopepad/pull/4/files)   |   Classmate's project   |   Submitted a Pull Request that created the above feature   |
 |  7   | [link](https://en.wikipedia.org/w/index.php?title=Glen_Sherley&diff=prev&oldid=890389441)   | Wikipedia   |   Grammar fixes    |
